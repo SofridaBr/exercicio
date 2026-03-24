@@ -1,4 +1,4 @@
-.mexico{
+.Bélgica{
     display: flex;
     flex-direction: column;
 
@@ -9,7 +9,7 @@
     height: 200px;
     display: flex;
     flex-direction: column;
-    background-color: black;
+    background-color: white
 
 }
 
@@ -18,7 +18,7 @@
     height: 200px;
     display: flex;
     flex-direction: column;
-    background-color: red;
+    background-color: blue;
 
 }
 
@@ -27,6 +27,6 @@
     height: 200px;
     display: flex;
     flex-direction: column;
-    background-color: yellow;
+    background-color: red;
 
 }

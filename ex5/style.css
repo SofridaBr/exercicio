@@ -1,0 +1,24 @@
+.franca{
+    display: flex;
+    height: 600px;
+
+}
+
+.cor1{
+    background-color: blue;
+    width: 100%;
+  
+}
+
+.cor2{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    
+}
+
+.cor3{
+    background-color: red;
+    width: 100%;
+   
+}
+

@@ -1,0 +1,24 @@
+.Bélgica{
+    display: flex;
+    height: 600px;
+
+}
+
+.col1{
+    background-color: black;
+    width: 100%;
+  
+}
+
+.col2{
+    background-color: yellow;
+    width: 100%;
+    
+}
+
+.col3{
+    background-color: red;
+    width: 100%;
+   
+}
+
