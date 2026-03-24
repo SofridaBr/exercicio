@@ -1,0 +1,23 @@
+.divisao{
+    background-color: rgb(109, 128, 90);
+    display: flex;
+    width: 100%;
+
+}
+
+
+.A{
+    background-color: crimson;
+    width: 50%;
+    height: 100vh;
+    
+
+}
+
+
+
+.B{
+    background-color: rgb(104, 74, 80);
+    width: 50%;
+    height: 100vh;
+}
